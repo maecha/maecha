@@ -1,9 +1,9 @@
 ## 🚀 About Me
-Hi, my name is Seiya Maeda and I'm a Front-end Engineer.
+Hi there! I'm Seiya Maeda, a front-end engineer.
 
-I was born in 1989 in the Tsugaru region of Aomori Prefecture. After graduating from high school, I moved to the Kanto area, and in 2021, I returned to Aomori where I now work remotely.
+Born in 1989, I grew up in the Tsugaru region of Aomori. After high school, I moved to the Kanto area but returned to Aomori in 2021, where I now work remotely.
 
-My hobbies are photography, reading, and skiing.
+In my free time, I enjoy photography, reading, and skiing.
 
 ## 🔧 Skills
 
@@ -26,7 +26,7 @@ const skills = {
 - LLM
 
 ## 📬 Get in Touch
-- Wantedry: https://www.wantedly.com/id/seiyamaeda
+- Wantedly: https://www.wantedly.com/id/seiyamaeda
 - Email: hiiamseiya@gmail.com
 
 <!--

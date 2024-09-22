@@ -1,5 +1,5 @@
 ## 🚀 About Me
-Hi there! I'm Seiya Maeda, a front-end engineer.
+Hi there! I'm Seiya Maeda, a software engineer.
 
 Born in 1989, I grew up in the Tsugaru region of Aomori. After high school, I moved to the Kanto area but returned to Aomori in 2021, where I now work remotely.
 

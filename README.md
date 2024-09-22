@@ -17,6 +17,7 @@ const skills = {
 ```
 
 ## 🌱 What I'm Learning
+- React (brushing up on)
 - Remix
 
 ## 📚 What I Want to Learn Next

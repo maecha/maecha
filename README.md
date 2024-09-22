@@ -9,7 +9,7 @@ In my free time, I enjoy photography, reading, and skiing.
 
 ```
 const skills = {
-  languages: ["JavaScript", "TypeScript", "HTML/CSS", "Swift", "Dart", "Ruby"],
+  languages: ["JavaScript", "TypeScript", "HTML/CSS", "Swift", "Objective-C", "Dart", "Ruby"],
   frameworks: ["React", "Astro", "Flutter", "Ruby on Rails", "GraphQL"],
   databases: ["PostgreSQL", "NoSQL"],
   tools: ["Vite", "Git", "npm", "GCP", "Firebase", "Cloudflare", "VSCode", "Xcode", "Figma"]

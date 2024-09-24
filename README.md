@@ -19,7 +19,7 @@ const skills = {
 ## 🌱 What I'm Learning
 - React (brushing up on)
 - Remix
-- LeetCode (just getting started, see my progress: [Leetcode Profile](https://leetcode.com/u/maecha))
+- LeetCode (just getting started to improve my DSA skills and problem-solving capabilities, see my progress: [Leetcode Profile](https://leetcode.com/u/maecha))
 
 ## 📚 What I Want to Learn Next
 - Golang

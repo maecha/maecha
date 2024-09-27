@@ -26,6 +26,7 @@ const skills = {
 - Rust
 - Hono
 - LLM
+- React Native
 
 ## 📬 Get in Touch
 - Wantedly: https://www.wantedly.com/id/seiyamaeda

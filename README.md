@@ -18,13 +18,14 @@ const skills = {
 
 ## 🌱 What I'm Learning
 - React (brushing up on)
-- Remix
+- Swift UI
 - LeetCode (just getting started to improve my DSA skills and problem-solving capabilities, see my progress [here](https://leetcode.com/u/maecha))
 
 ## 📚 What I Want to Learn Next
 - Golang
 - Rust
 - Hono
+- Remix
 - LLM
 - React Native
 

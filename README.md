@@ -18,7 +18,7 @@ const skills = {
 
 ## 🌱 What I'm Learning
 - React (brushing up on)
-- Swift UI
+- Flutter/Dart
 - LeetCode (just getting started to improve my DSA skills and problem-solving capabilities, see my progress [here](https://leetcode.com/u/maecha))
 
 ## 📚 What I Want to Learn Next
@@ -26,8 +26,8 @@ const skills = {
 - Rust
 - Hono
 - Remix
-- LLM
 - React Native
+- LLM
 
 ## 📬 Get in Touch
 - Wantedly: https://www.wantedly.com/id/seiyamaeda

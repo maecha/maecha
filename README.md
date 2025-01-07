@@ -17,9 +17,12 @@ const skills = {
 ```
 
 ## 🌱 What I'm Learning
-- React (brushing up on)
+- React
+  - Revisiting core concepts, including state management, hooks, and component architecture
 - Flutter/Dart
-- LeetCode (just getting started to improve my DSA skills and problem-solving capabilities, see my progress [here](https://leetcode.com/u/maecha))
+  - Exploring cross-platform app development
+- LeetCode
+  - Improving my DSA skills and problem-solving abilities. See my progress [here](https://leetcode.com/u/maecha)
 
 ## 📚 What I Want to Learn Next
 - Golang

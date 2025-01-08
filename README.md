@@ -21,6 +21,8 @@ const skills = {
   - Revisiting core concepts, including state management, hooks, and component architecture
 - Flutter/Dart
   - Exploring cross-platform app development
+- Database
+  - Revisiting foundational concepts, including schema design, normalization, and modern database technologies
 - LeetCode
   - Improving my DSA skills and problem-solving abilities. See my progress [here](https://leetcode.com/u/maecha)
 

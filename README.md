@@ -37,7 +37,7 @@ const skills = {
 ## 📬 Get in Touch
 - Wantedly: https://www.wantedly.com/id/seiyamaeda
 - Bluesky: https://bsky.app/profile/maechan.bsky.social
-- Email: hiiamseiya@gmail.com
+- Email: seiya.maeda.jp@gmail.com
 
 <!--
 **maecha/maecha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -28,11 +28,11 @@ const skills = {
 
 ## 📚 What I Want to Learn Next
 - Golang
+- Ruby
 - Rust
 - Hono
 - Remix
-- React Native
-- LLM
+- Vue.js
 
 ## 📬 Get in Touch
 - Wantedly: https://www.wantedly.com/id/seiyamaeda

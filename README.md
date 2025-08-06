@@ -9,8 +9,8 @@ In my free time, I enjoy photography, reading, and skiing.
 
 ```
 const skills = {
-  languages: ["JavaScript", "TypeScript", "HTML/CSS", "Swift", "Objective-C", "Dart", "Ruby"],
-  frameworks: ["React", "Astro", "Flutter", "Ruby on Rails", "GraphQL"],
+  languages: ["JavaScript", "TypeScript", "HTML/CSS", "Swift", "Objective-C", "Dart"],
+  frameworks: ["React", "Astro", "Flutter", "GraphQL"],
   databases: ["PostgreSQL", "NoSQL"],
   tools: ["Vite", "Git", "npm", "GCP", "Firebase", "Cloudflare", "VSCode", "Xcode", "Figma"]
 };
@@ -28,11 +28,11 @@ const skills = {
 
 ## 📚 What I Want to Learn Next
 - Golang
-- Ruby
+- Ruby (Revisiting)
 - Rust
 - Hono
 - Remix
-- Vue.js
+- Vue.js (Revisiting)
 
 ## 📬 Get in Touch
 - Wantedly: https://www.wantedly.com/id/seiyamaeda

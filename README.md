@@ -9,28 +9,22 @@ In my free time, I enjoy photography, reading, and skiing.
 
 ```
 const skills = {
-  languages: ["JavaScript", "TypeScript", "HTML/CSS", "Swift", "Objective-C", "Dart"],
+  languages: ["TypeScript", "Swift", "Objective-C", "Dart", "Ruby"],
   frameworks: ["React", "Astro", "Flutter", "GraphQL"],
   databases: ["PostgreSQL", "NoSQL"],
-  tools: ["Vite", "Git", "npm", "GCP", "Firebase", "Cloudflare", "VSCode", "Xcode", "Figma"]
+  tools: ["Vite", "Git", "npm", "Cloudflare", "Firebase", "GCP", "VSCode", "Xcode", "Figma"]
 };
 ```
 
 ## 🌱 What I'm Learning
-- React
-  - Revisiting core concepts, including state management, hooks, and component architecture
-- Flutter/Dart
-  - Exploring cross-platform app development
-- Database
-  - Revisiting foundational concepts, including schema design, normalization, and modern database technologies
+- React & Modern Frontend Ecosystem
+- Flutter for Cross-platform Development
 
 ## 📚 What I Want to Learn Next
-- Golang
-- Ruby (Revisiting)
-- Rust
-- Hono
-- Remix
-- Vue.js (Revisiting)
+- **AI Integration** (Exploring AI-powered service development)
+- **Backend & Systems** (Golang, Rust, Hono)
+- **Modern Web Frameworks** (Remix, Vue.js)
+- **Database Architecture** (Deep dive into schema design & optimization)
 
 ## 📬 Get in Touch
 - Wantedly: https://www.wantedly.com/id/seiyamaeda

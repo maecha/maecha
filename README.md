@@ -21,10 +21,14 @@ const skills = {
 - Flutter for Cross-platform Development
 
 ## 📚 What I Want to Learn Next
-- **AI Integration** (Exploring AI-powered service development)
-- **Backend & Systems** (Golang, Rust, Hono)
-- **Modern Web Frameworks** (Remix, Vue.js)
-- **Database Architecture** (Deep dive into schema design & optimization)
+- **AI Integration**
+  - Exploring AI-powered service development
+- **Backend & Systems**
+  - Golang, Rust, Hono, Ruby on Rails (Revisiting)
+- **Modern Web Frameworks**
+  - Remix, Vue.js (Revisiting)
+- **Database Architecture**
+  - Deep dive into schema design & optimization
 
 ## 📬 Get in Touch
 - Wantedly: https://www.wantedly.com/id/seiyamaeda
